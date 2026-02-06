@@ -18,8 +18,6 @@
 
 - Étape 4 — Vérifier le réseau (tests de “santé” : connectivité et accès réseau).
 
-<img width="1719" height="258" alt="C5" src="https://github.com/user-attachments/assets/947bb4b9-f256-48b1-aa63-0ac2c2155620" />
-
 <img width="944" height="395" alt="C5v1" src="https://github.com/user-attachments/assets/f3f8e997-cfd1-41dc-a512-730e5d9c19a1" />
 
 <img width="813" height="360" alt="C6" src="https://github.com/user-attachments/assets/87c073bc-5957-4753-9217-83b4a9ed4eb8" />
