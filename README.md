@@ -1,7 +1,8 @@
 # LAB 1 : Mise en place du lab (Mobexler + snapshot clean)
 
+### apres telecharger l'image .ova on vérifier l’intégrité
 <img width="1888" height="453" alt="C1" src="https://github.com/user-attachments/assets/26cc6426-5fc9-4ab9-b7d0-65d8b8479bd6" />
-
+### Importe Vmware 2 cartes réseau configurées (NAT + Host-Only)
 <img width="1920" height="905" alt="C2" src="https://github.com/user-attachments/assets/f8e7ab77-4d28-431a-a2f8-59ea9bc0c2cf" />
 
 <img width="1920" height="1080" alt="C3" src="https://github.com/user-attachments/assets/90ff679f-414a-4582-ba16-4cdeaf6bdd3f" />
